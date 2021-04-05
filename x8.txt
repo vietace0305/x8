@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Thời khóa biểu</title>
+    <style>
+        h1{color:blue;}
+        h5{color: cornflowerblue}
+        h3{background:yellow}
+        h4{background: chocolate}
+        h1,h3,h4{text-align: center}
+    </style>
+</head>
+<body>
+<h1>THỜI KHÓA BIỂU</h1>
+<table width="150%">
+    <tr>
+        <td><h5>Lớp: T0908I</h5></td>
+        <td></td>
+        <td><h5>Thời gian học: 13h30-17h30</h5></td>
+    </tr>
+    <tr>
+        <td><h5>Giáo viên:KhoaNV</h5></td>
+        <td></td>
+        <td><h5>Ngày học:Thứ 3,5,7</h5></td>
+    </tr>
+    <tr>
+        <td><h5>Phòng học:Class3/Lab3</h5></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+<table border="1" width="100%">
+    <tr>
+<td colspan="3"></td>
+        <td><h3>Thứ3</h3></td>
+        <td><h3>Thứ5</h3></td>
+        <td><h3>Thứ7</h3></td>
+    </tr>
+    <tr>
+        <td><h4>Tuần</h4></td>
+        <td><h4>Ngày bắt đầu</h4></td>
+        <td><h4>Ngày kết thúc</h4></td>
+        <td colspan="3"><h4>Môn học</h4></td>
+    </tr>
+    <tr>
+        <td>01</td>
+        <td>01/09/2009</td>
+        <td>05/09/2009</td>
+        <td>CF-T1,L1</td>
+        <td>CF-T2,L2</td>
+        <td>CF-T3,L3</td>
+    </tr>
+    <tr>
+        <td>02</td>
+        <td>08/09/2009</td>
+        <td>12/09/2009</td>
+        <td>CF-T4,L4</td>
+        <td>CF-Written</td>
+        <td>C-T1,L1</td>
+    </tr>
+    <tr>
+        <td>03</td>
+        <td>...</td>
+        <td>...</td>
+        <td>...</td>
+        <td>...</td>
+        <td>...</td>
+    </tr>
+</table>
+</body>
+</html>
